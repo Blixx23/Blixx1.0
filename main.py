@@ -5,7 +5,7 @@ from typing import Annotated  # Importing Annotated for type hints
 
 # Initializing OpenAI with the provided API key
 openai = OpenAI(
-    api_key="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"
+    api_key="MyKey"
 )
 
 # Creating a FastAPI application instance
